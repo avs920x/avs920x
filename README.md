@@ -9,9 +9,9 @@ I’m passionate about using technology and data to simplify complex processes, 
 
 🌍 Fun Facts
 
-I have a deep interest in how data and psychology intersect, especially in understanding human behavior. I am also interested in health data and patterns you can decipher from healthcare data. 
+I have a deep interest in how data and psychology intersect, especially in understanding human behavior. I am also interested in health data and patterns you can decipher from healthcare data. Additionally, I am interested in e-learning data, real estate data, and cultural analytics. 
 
-I’m currently pursuing a Graduate Certificate in Data Science and working towards the end of the TripleTen Business Intelligence Analyst program.
+I’m currently pursuing a Graduate Certificate in Data Science and have recently completed the TripleTen Business Intelligence Analyst program.
 
 I love exploring different cultures, studying languages, and have plans to become a digital nomad in the near future. 
 
